@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    background-image: url(assets/batman-back.jpg);
+    background-image: url(assets/gothamwall.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -10,6 +10,7 @@ img {
     height: 300px;
     border: 5px solid rgb(190, 19, 19);
     border-radius: 15px;
+    width: auto;
 }
 
 footer p{
@@ -17,8 +18,20 @@ footer p{
 }
 
 h1{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(212, 212, 24);
-    font-size: xx-large;
+    font-size: 100px;
     padding: 50px;
 }
+
+header{
+    text-align: center;
+}
+
+.meio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
