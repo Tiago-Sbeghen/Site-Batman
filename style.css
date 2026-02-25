@@ -79,3 +79,9 @@ header{
 .batlink {
     color: rgb(212, 212, 24);
 }
+
+.noticia strong{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(219, 22, 22, 0.871);
+    font-size: 25px;
+}
