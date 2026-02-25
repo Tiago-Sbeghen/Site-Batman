@@ -31,6 +31,12 @@ h2{
     text-align: center;
 }
 
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(212, 212, 24);
+    font-size: 30px;
+}
+
 header{
     text-align: center;
 }
@@ -46,6 +52,12 @@ header{
     display: flex;
     align-items: center;
     gap: 20px;
+}
+
+.noticia img{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
 }
 
 .separador img{
