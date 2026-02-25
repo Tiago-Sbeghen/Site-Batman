@@ -15,6 +15,7 @@ img {
 
 footer p{
     color: rgb(212, 212, 24);
+    text-align: center;
 }
 
 h1{
@@ -58,6 +59,7 @@ header{
     height: 300px;
     width: 300px;
     object-fit: cover;
+    margin: 15px;
 }
 
 .separador img{
